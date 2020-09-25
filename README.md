@@ -63,4 +63,4 @@ The better classifier in this case is certainly the AdaBoost classifier. The rec
 
 
 ### Resources
-*[Lending Club Data Dictionary](https://resources.lendingclub.com/LCDataDictionary.xlsx)
+* [Lending Club Data Dictionary](https://resources.lendingclub.com/LCDataDictionary.xlsx)

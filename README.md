@@ -11,9 +11,11 @@
 * [Technology](#technology)
 
 ### Overview
-Credit risk is an inherently unbalanced classification problem, as the number of good loans easily outnumber the number of risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes. Jill asks you to use imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. Your final task is to evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+In this challenge, I built and evaluated several machine learning models to assess credit risk, using data from LendingClub; a peer-to-peer lending services company.
 
-The goals of this challenge are for you to:
+Credit risk is an inherently unbalanced classification problem, as the number of good loans easily outnumber the number of risky loans. Therefore, I needed to employ different techniques to train and evaluate models with unbalanced classes. I used the imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. My final task was to evaluate the performance of these models and make a recommendation on whether they should be used to predict credit risk.
+
+The goals of this challenge were to:
 * Implement machine learning models.
 * Use resampling to attempt to address class imbalance.
 * Evaluate the performance of machine learning models.

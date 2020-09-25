@@ -9,6 +9,7 @@
 * [Ensemble Classifier Summary](#ensemble-classifier-summary)
 * [Challenges](#challenges)
 * [Technology](#technology)
+* [Resources](#resources)
 
 ### Overview
 In this challenge, I built and evaluated several machine learning models to assess credit risk, using data from LendingClub; a peer-to-peer lending services company.
@@ -46,11 +47,18 @@ The better classifier in this case is certainly the AdaBoost classifier. The rec
 
 
 ### Challenges
-
-
-
+* Supervised Learning
+* 
 
 ### Technology
+* Supervised Learning
+* Logistic Regression
+* Classification Model Validation
+* Support Vector Machines
+* Decision Trees
+* Ensemble Learning
+* Bagging and Boosting
+* Class Imbalance and Resampling
 
 
 

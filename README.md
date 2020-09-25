@@ -47,8 +47,7 @@ The better classifier in this case is certainly the AdaBoost classifier. The rec
 
 
 ### Challenges
-* Supervised Learning
-* 
+
 
 ### Technology
 * Supervised Learning
